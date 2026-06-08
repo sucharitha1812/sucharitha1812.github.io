@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#07070f"/>
+  <rect x="0" y="0" width="5" height="630" fill="#d4a843"/>
+  <circle cx="960" cy="200" r="280" fill="none" stroke="rgba(212,168,67,0.06)" stroke-width="1"/>
+  <circle cx="960" cy="200" r="200" fill="none" stroke="rgba(212,168,67,0.04)" stroke-width="1"/>
+  <text x="80" y="185" font-family="Georgia,serif" font-size="76" font-weight="900" fill="#f0ede8">Sucharitha</text>
+  <text x="80" y="278" font-family="Georgia,serif" font-size="76" font-weight="400" fill="#d4a843" font-style="italic">Reddy Gaddam</text>
+  <text x="83" y="358" font-family="Arial,sans-serif" font-size="22" fill="#6e6a64" letter-spacing="5">DATA ENGINEER  ·  AI/ML ENGINEER  ·  DATA SCIENTIST  ·  BI ANALYST</text>
+  <text x="83" y="418" font-family="Arial,sans-serif" font-size="18" fill="#3a3830">M.S. AI &amp; Business Analytics · USF · GPA 4.0 · 4+ Years Production Experience · 22 GitHub Projects</text>
+  <rect x="80" y="468" width="268" height="48" rx="4" fill="#d4a843"/>
+  <text x="152" y="498" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#07070f">sucharitha1812.github.io</text>
+</svg>

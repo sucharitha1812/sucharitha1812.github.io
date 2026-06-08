@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="mg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4a843"/>
+      <stop offset="100%" style="stop-color:#b8912e"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="none" stroke="url(#mg)" stroke-width="1.5" opacity="0.5"/>
+  <circle cx="60" cy="60" r="54" fill="rgba(212,168,67,0.07)"/>
+  <text x="60" y="69" font-family="Georgia,serif" font-size="34" font-weight="700" fill="url(#mg)" text-anchor="middle" letter-spacing="-1">SRG</text>
+</svg>

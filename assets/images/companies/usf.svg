@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" width="160" height="48">
+  <defs><linearGradient id="ug" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#3ecbb0;stop-opacity:0.9"/><stop offset="100%" style="stop-color:#2eb89e;stop-opacity:0.7"/></linearGradient></defs>
+  <rect x="0" y="15" width="4" height="18" rx="2" fill="url(#ug)"/>
+  <text x="14" y="31" font-family="Georgia,serif" font-size="19" font-weight="700" fill="#f0ede8" opacity="0.85" letter-spacing="1">USF</text>
+</svg>
